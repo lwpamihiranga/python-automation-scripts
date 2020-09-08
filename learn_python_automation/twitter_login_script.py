@@ -6,8 +6,8 @@ from time import sleep
 # pwd = getpass("Enter your twitter password: ")
 msg = input("Enter your tweet: ")
 
-usr = "***REMOVED***"
-pwd = "***REMOVED***"
+usr = "your email here"
+pwd = "your password here"
 
 driver = webdriver.Firefox()
 driver.get("https://twitter.com/")

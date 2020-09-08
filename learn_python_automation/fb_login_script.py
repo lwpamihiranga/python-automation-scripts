@@ -4,8 +4,8 @@ from getpass import getpass
 # usr = input("Enter your facebook username or email: ")
 # pwd = getpass("Enter your facebook password: ")
 
-usr = "***REMOVED***"
-pwd = "***REMOVED***"
+usr = "your email here"
+pwd = "your password here"
 
 driver = webdriver.Firefox()
 driver.get("https://www.facebook.com/")
